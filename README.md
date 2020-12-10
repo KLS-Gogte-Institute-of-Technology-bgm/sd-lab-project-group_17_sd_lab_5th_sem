@@ -14,6 +14,7 @@ Donor management: donor registration , managing donor database , recording their
 Brief overview of technology:
 
 •	Front end : HTML , CSS , JavaScript
+
 1.HTML : HTML is used to create and save the web document.
 
 2. CSS: (Cascading Style Sheets) create attractive layout
@@ -23,6 +24,7 @@ Brief overview of technology:
 4.JavaScript: it is a programming language, commonly used with web browsers.
 
 •	Back end: PHP , MySQL
+
 1.PHP: hypertext preprocessor (PHP) is a technology that allows software developers to create dynamically generated web pages , in HTML ,XML , or other document types , as per client request.PHP is open source software.
 
 2. MySQL: MySQL is a database, widely used for accessing querying , updating , and managing data in databases.
